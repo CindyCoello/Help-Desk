@@ -14,7 +14,7 @@ Algunas de sus principales características son:
 -Emisión de notificaciones relevantes.
 
 
-
+# Portal Administrativo
 # Login
 ![image](https://user-images.githubusercontent.com/85320228/230815173-2b19ca93-e310-400d-ab52-247164d1c67f.png)
 
@@ -81,6 +81,61 @@ Gráfica que muestra los tickets creados, asignados, completados, pendientes y l
 ![image](https://user-images.githubusercontent.com/85320228/230817445-acdff397-aea1-4d25-8951-2e15d88d650f.png)
 ![image](https://user-images.githubusercontent.com/85320228/230817461-5b689fd8-991b-4c0f-8fee-f5b5fa15a355.png)
 ![image](https://user-images.githubusercontent.com/85320228/230817481-6007ec20-fce4-4e24-a97e-abbc489d6a63.png)
+
+# Portal Web
+![image](https://user-images.githubusercontent.com/85320228/230817850-ce5c4bb4-a0f6-47aa-94c7-a54c1d30e8e0.png)
+![image](https://user-images.githubusercontent.com/85320228/230817870-fd3b4057-393d-46d0-b6bf-0176f6006c87.png)
+
+# Buzón de notificaciones
+![image](https://user-images.githubusercontent.com/85320228/230817936-313bae07-2827-4721-be37-a7254a12ddc7.png)
+
+# Dashboards
+![image](https://user-images.githubusercontent.com/85320228/230817986-49d341e6-7cd2-4a45-a7d8-d2a76deeee98.png)
+
+#Información de tickets
+![image](https://user-images.githubusercontent.com/85320228/230818040-26c2e353-6065-48dc-bc8e-aab928a5b949.png)
+
+
+# Chat
+![image](https://user-images.githubusercontent.com/85320228/230818139-f056d342-5fb1-45e1-bd3c-96a7401bbfc8.png)
+![image](https://user-images.githubusercontent.com/85320228/230818160-98b46463-a3eb-48e1-b629-4a0490ce1c3a.png)
+
+# Contratos
+![image](https://user-images.githubusercontent.com/85320228/230818230-1d592dc9-0ed1-490a-aa39-ea9bbf9a9e80.png)
+![image](https://user-images.githubusercontent.com/85320228/230818249-e5a0ccd3-dabb-4ee9-8c3f-841ecc4d6401.png)
+![image](https://user-images.githubusercontent.com/85320228/230818267-89a925d7-9901-44a4-96cb-b80fb2e0f06c.png)
+![image](https://user-images.githubusercontent.com/85320228/230818318-9ffab118-a3fa-44f7-8c00-6a5c18beb5d2.png)
+![image](https://user-images.githubusercontent.com/85320228/230818334-d6d555b1-865f-40be-9cd2-596d73ba2b28.png)
+
+# Acceder a vista FQA
+![image](https://user-images.githubusercontent.com/85320228/230818396-47b6b1e8-beef-48d9-ac4f-b88b61aeb606.png)
+
+# Listado de Tickes
+![image](https://user-images.githubusercontent.com/85320228/230818448-feaed093-7df0-4374-8306-c8b7703b1a77.png)
+![image](https://user-images.githubusercontent.com/85320228/230818472-c0f2a037-f3b1-4cad-8665-57f8360b9b2d.png)
+![image](https://user-images.githubusercontent.com/85320228/230818519-fb631757-ec75-4c7c-a517-a0a0e3537021.png)
+![image](https://user-images.githubusercontent.com/85320228/230818541-ecf3c931-da3a-4ad3-b7b4-8a7d3bf81eb9.png)
+![image](https://user-images.githubusercontent.com/85320228/230818573-c158baf6-571f-4f65-9a49-3ab7554db4ea.png)
+
+# Bitácora
+El apartado de bitácora tiene como propósito registrar el técnico que ha hecho cambios al ticket que se le está dando seguimiento.
+![image](https://user-images.githubusercontent.com/85320228/230818692-4449e4bd-23f3-49cc-a392-0333e1a4b31e.png)
+
+# Notas
+![image](https://user-images.githubusercontent.com/85320228/230818716-976a794d-8267-45a1-b3a3-5bfa114bc25b.png)
+
+![image](https://user-images.githubusercontent.com/85320228/230818736-bc3236b1-6637-4a92-ba19-1ceb69aae84c.png)
+![image](https://user-images.githubusercontent.com/85320228/230818758-933feb1b-f70a-4daf-9b63-01c98ef23832.png)
+![image](https://user-images.githubusercontent.com/85320228/230818777-33813b2e-b77a-46f4-b479-863243e57c69.png)
+
+# Resolución
+En este apartado se muestra la nota de cierre del ticket, es decir, el comentario que nos hizo el técnico que trabajó en el ticket, de igual manera se muestra la opción de calificar el servicio del ticket donde seleccionamos la cantidad de “estrellas” que consideremos del 1 al 5. Para enviar el mensaje damos clic en el botón de enviar.
+![image](https://user-images.githubusercontent.com/85320228/230818808-65fec46d-6f01-457e-8894-19b3f7042181.png)
+
+
+
+
+
 
 
 
