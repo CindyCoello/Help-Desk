@@ -92,9 +92,8 @@ Gráfica que muestra los tickets creados, asignados, completados, pendientes y l
 # Dashboards
 ![image](https://user-images.githubusercontent.com/85320228/230817986-49d341e6-7cd2-4a45-a7d8-d2a76deeee98.png)
 
-#Información de tickets
+# Información de tickets
 ![image](https://user-images.githubusercontent.com/85320228/230818040-26c2e353-6065-48dc-bc8e-aab928a5b949.png)
-
 
 # Chat
 ![image](https://user-images.githubusercontent.com/85320228/230818139-f056d342-5fb1-45e1-bd3c-96a7401bbfc8.png)
@@ -123,7 +122,6 @@ El apartado de bitácora tiene como propósito registrar el técnico que ha hech
 
 # Notas
 ![image](https://user-images.githubusercontent.com/85320228/230818716-976a794d-8267-45a1-b3a3-5bfa114bc25b.png)
-
 ![image](https://user-images.githubusercontent.com/85320228/230818736-bc3236b1-6637-4a92-ba19-1ceb69aae84c.png)
 ![image](https://user-images.githubusercontent.com/85320228/230818758-933feb1b-f70a-4daf-9b63-01c98ef23832.png)
 ![image](https://user-images.githubusercontent.com/85320228/230818777-33813b2e-b77a-46f4-b479-863243e57c69.png)
