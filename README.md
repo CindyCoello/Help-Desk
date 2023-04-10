@@ -3,7 +3,7 @@ Sistema de mesa de ayuda, este proyecto fue creado originalmente para cubrir las
 
 Algunas de sus principales características son:
 
--Gestión de tickets (creación de tickets, seguimiento y evidencias).
+* Gestión de tickets (creación de tickets, seguimiento y evidencias).
 -Canales de comunicación: llamada, correo electrónico, un chat y portal web.
 -Base de conocimientos categorizada por tipo de ticket.
 -Base de datos centralizada de clientes.
